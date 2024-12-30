@@ -108,11 +108,11 @@
             <h1>에볼루션 바카라 게임</h1>
             <nav>
                 <ul>
-                    <li><a href="https://damianhamilton.github.io/">홈</a></li>
-                    <li><a href="https://damianhamilton.github.io/games">게임</a></li>
-                    <li><a href="https://damianhamilton.github.io/promotion">프로모션</a></li>
-                    <li><a href="https://damianhamilton.github.io/contact">문의하기</a></li>
-                    <li><a href="https://damianhamilton.github.io/about">회사 정보</a></li>
+                    <li><a href="index.html">홈</a></li>
+                    <li><a href="games.html">게임</a></li>
+                    <li><a href="promotion.html">프로모션</a></li>
+                    <li><a href="contact.html">문의하기</a></li>
+                    <li><a href="about.html">회사 정보</a></li>
                 </ul>
             </nav>
         </div>
